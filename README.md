@@ -1,4 +1,4 @@
-SmartSeat: 離線式隱私優先智慧點名系統 📸
+# SmartSeat: 離線式隱私優先智慧點名系統 📸
 基於 Raspberry Pi 5 與 YOLOv8 的邊緣運算點名解決方案。
 
 📖 專案簡介 (Introduction)
